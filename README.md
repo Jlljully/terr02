@@ -35,7 +35,7 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled7.png "")  
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled7.png "")  
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled6.png "")  
 
 ![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled5.png "")  
 
