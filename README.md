@@ -31,13 +31,13 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 5. Прерываемая ВМ (preemptible) подходит для тестовых платформ, которые можно останавливать для высвобождения ресурсов для запуска более важных для работы ВМ в рамках той же зоны доступности (а так же они останавливаются при простое 24ч+). Их использование значительно дешевле, но не подходит для прода.
 А использование core_fraction=Х обеспечит предоставление не менее Х% частотности процессора при высокой нагрузке и до 100% при высвобожении ресурсов.
 
-[!скрин](https://github.com/Jlljully/terr02/blob/main/Untitled.png "")  
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled.png "")  
 
-[!скрин](https://github.com/Jlljully/terr02/blob/main/Untitled2.png "")  
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled2.png "")  
 
-[!скрин](https://github.com/Jlljully/terr02/blob/main/Untitled3.png "")  
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled3.png "")  
 
-[!скрин](https://github.com/Jlljully/terr02/blob/main/Untitled4.png "")  
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled4.png "")  
 
 
 
