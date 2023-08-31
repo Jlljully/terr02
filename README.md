@@ -83,6 +83,12 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 В качестве решения приложите вывод значений ip-адресов команды ```terraform output```.
 
+### Ответ
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled12.png "")  
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled13.png "")  
+
 
 ### Задание 5
 
