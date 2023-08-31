@@ -120,7 +120,11 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled18.png "")  
 
-2. t
+2-4. 
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled19.png "")  
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled20.png "")  
 
    
 ------
