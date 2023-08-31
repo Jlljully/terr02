@@ -112,6 +112,17 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ### Ответ
 
+1. 
+   
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled16.png "")  
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled17.png "")  
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled18.png "")  
+
+2. t
+
+   
 ------
 
 ## Дополнительное задание (со звёздочкой*)
