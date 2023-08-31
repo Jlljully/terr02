@@ -53,7 +53,10 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled8.png "")  
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled8.png "")    
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled9.png "")  
+
 
 ### Задание 3
 
