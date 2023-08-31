@@ -57,6 +57,8 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled9.png "")  
 
+//Следующие задания выполнялись в другой день, поэтому ресурсы подняты с нуля.//
+
 
 ### Задание 3
 
@@ -66,6 +68,12 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 
 ### Ответ
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled10.png "")  
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled11.png "")  
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled12.png "")  
 
 
 ### Задание 4
