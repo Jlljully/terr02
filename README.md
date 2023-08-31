@@ -85,9 +85,9 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled12.png "")  
-
 ![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled13.png "")  
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled14.png "")  
 
 
 ### Задание 5
@@ -98,6 +98,8 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 
 ### Ответ
+
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled15.png "")  
 
 
 ### Задание 6
