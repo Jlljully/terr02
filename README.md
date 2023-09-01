@@ -148,4 +148,6 @@ https://console.cloud.yandex.ru/folders/<ваш cloud_id>/vpc/security-groups.
 
 ### Ответ
 
+![скрин](https://github.com/Jlljully/terr02/blob/main/Untitled21.png "")  
 
+4ое оставлю на потом :)
